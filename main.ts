@@ -9,7 +9,7 @@ const POEM = [
   "I held the key.",
   "You held the door.",
   "Neither of us moved",
-  "until we both said go.",
+  "until we turned as one.",
   "Not your hand, not mine —",
   "the turn belonged to both.",
   "One click.",
